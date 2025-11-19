@@ -1,5 +1,8 @@
 .DS_Store
 
 # --- STM32 / CubeIDE ---
+/software/W5500/Debug/
+/software/W5500/.settings/
 
 # --- Python ---
+#/software/Script/
